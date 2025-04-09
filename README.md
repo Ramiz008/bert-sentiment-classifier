@@ -1,2 +1,2 @@
-# bert-sentiment-classifier
+# Bert-sentiment-classifier
 BERT-based binary sentiment classifier
